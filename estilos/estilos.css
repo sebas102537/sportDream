@@ -1,0 +1,62 @@
+header nav li{
+    font-size: 18px; 
+    display:inline-block;   
+    padding: 20px;
+    color: brown;
+    font-family:'Unlock', cursive;
+    
+    
+  }
+
+  header nav li:hover{
+    background-color: hsl(357, 98%, 48%);
+        color: black
+    
+}
+
+    main img{
+
+        display: block;
+        margin: 0 auto;
+    }
+
+    nav{
+        text-align: center;
+
+    }
+
+    h3{
+        text-align: center;
+        color: red;
+
+    }
+
+
+    h1{
+        text-align: center;
+        
+
+    }
+    h2{
+        text-align: center;
+    }
+
+    .imagenes{
+        height: 600px;
+    }
+    .card{
+        margin-top: 40px;
+    }
+
+    .cards{
+        margin-left: 1px;
+        width: 200px;
+        height :100px;
+    }
+
+    footer{
+        background-color: #212529;
+        color: white;
+       margin-top: 100px;
+    }
+
